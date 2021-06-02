@@ -20,10 +20,12 @@
 
 ## ✉️Contact me
 信箱：[junminhong1110@gmail.com](mailto:junminhong1110@gmail.com)
+
 LinkedIn: [https://www.linkedin.com/in/junminhong/](https://www.linkedin.com/in/junminhong/)
 
 ## 🗣Know me more
 學習筆記：[https://junminhong.github.io/](https://junminhong.github.io/)
+
 Medium: [https://medium.com/junminhong](https://medium.com/junminhong)
 
 ## 📍公告
