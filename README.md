@@ -15,15 +15,16 @@
 4. 希望未來可以增加更多豐富的經歷。
 
 ## 📝目前學習方向
-1. Ruby on Rails
-2. React
-3. Golang(Gin)
+1. Golang(Gin)
+3. React
 
 ## ✉️Contact me
 信箱：[junminhong1110@gmail.com](mailto:junminhong1110@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/junminhong/](https://www.linkedin.com/in/junminhong/)
 
 ## 🗣Know me more
 學習筆記：[https://junminhong.github.io/](https://junminhong.github.io/)
+Medium: [https://medium.com/junminhong](https://medium.com/junminhong)
 
 ## 📍公告
 1. 待新增。
