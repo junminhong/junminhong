@@ -16,7 +16,8 @@
 
 ## 📝目前學習方向
 1. Golang(Gin)
-3. React
+2. gRPC
+3. Vue3
 
 ## ✉️Contact me
 信箱：[junminhong1110@gmail.com](mailto:junminhong1110@gmail.com)
