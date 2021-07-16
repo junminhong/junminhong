@@ -19,6 +19,7 @@
 1. Golang(Gin)
 2. gRPC
 3. Vue3
+4. LeetCode 解題
 
 ## ✉️Contact me
 信箱：[junminhong1110@gmail.com](mailto:junminhong1110@gmail.com)
