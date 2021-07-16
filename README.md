@@ -34,4 +34,4 @@ Medium: [https://medium.com/junminhong](https://medium.com/junminhong)
 ~~學習筆記：[https://junminhong.github.io/](https://junminhong.github.io/)~~
 
 ## 📍公告
-1. 待新增。
+1. 2021/07/16 全面更新Blog，停止維護學習筆記，啟用精神時光屋。
