@@ -26,9 +26,11 @@
 LinkedIn: [https://www.linkedin.com/in/junminhong/](https://www.linkedin.com/in/junminhong/)
 
 ## 🗣Know me more
-學習筆記：[https://junminhong.github.io/](https://junminhong.github.io/)
+精神時光屋：[https://jmh-blog.web.app/](https://jmh-blog.web.app/)
 
 Medium: [https://medium.com/junminhong](https://medium.com/junminhong)
+
+~~學習筆記：[https://junminhong.github.io/](https://junminhong.github.io/)~~
 
 ## 📍公告
 1. 待新增。
