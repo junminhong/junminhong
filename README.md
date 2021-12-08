@@ -35,4 +35,5 @@ Medium: [https://medium.com/junminhong](https://medium.com/junminhong)
 
 ## 📍公告
 1. 2021/07/16 全面更新Blog，停止維護學習筆記，啟用精神時光屋。
-2. 2021/08/19 要進去當兵拉，所以先暫時停止更新Blog和Github。
+2. ~~2021/08/19 要進去當兵拉，所以先暫時停止更新Blog和Github。~~
+3. 2021/12/04 終於結束漫長的四個月兵役，繼續往人生的目標前進。
