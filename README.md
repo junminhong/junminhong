@@ -6,17 +6,15 @@
 - [Toot Clock - 台鐵火車時刻表](https://github.com/junminhong/toot-clock)
 - Line bot - 定期提醒機器人
 
-### 📝 學習方向
-1. ROR
-2. React(Next.js)
-3. Golang
-4. Vue(Nuxt.js)
-5. Cloud know-how
+### 🎯 目標
+1. Info & Devops know-how
+2. Backend Technology
+3. Frontend Technology
 
 ### ✉️ Contact me
 信箱: [junminhong1110@gmail.com](mailto:junminhong1110@gmail.com)
 
 LinkedIn: [https://www.linkedin.com/in/junminhong/](https://www.linkedin.com/in/junminhong/)
 
-### 🗣 Know me more
-Blog & Profile: [https://blog.jmh-su.com/](https://blog.jmh-su.com/)
+### 🗣 If you want to know more ?
+[https://library.wowkit.net/](https://library.wowkit.net/)
